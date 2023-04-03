@@ -29,12 +29,7 @@
                                     class="fa-solid fa-plus"></i></a>
                         </div>
                         <!-- SEARCH FORM -->
-                        <form class="form-inline ml-3">
-                            <div class="input-group input-group-sm">
 
-                                <input type="text" class="form-control" name="serach" id="serach" placeholder="Search&hellip;">
-                            </div>
-                        </form>
 
                     </div>
                 </div>
